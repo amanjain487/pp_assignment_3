@@ -1,5 +1,8 @@
 # Assignment 3 - IMPLEMENT RESTful APIs
 
+# DEPLOYMENT URL - https://aman-pp-rest-api.herokuapp.com/api/genre/
+- You can try the CRUD APIs using the above link in browser or in POSTMAN
+
 # Description
 - I have used library management models to demonstrate restful apis
 - Backend - Django - Python
